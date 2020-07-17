@@ -21,6 +21,8 @@
         <module>happy-mall-commodity-service</module>
         <module>happy-mall-merchant-service</module>
         <module>happy-mall-common</module>
+        <module>happy-mall-ucenter-service</module>
+        <module>happy-mall-getaway-service</module>
     </modules>
 
     <properties>
@@ -77,7 +79,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 
 
     <build>
